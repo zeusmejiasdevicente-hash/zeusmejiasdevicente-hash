@@ -36,11 +36,12 @@ Estudiante de Formación Profesional en **Davante (Málaga)** con interés en la
 
 | Área | Tecnologías |
 |:---|:---|
-| **Lenguajes de marcas** | HTML · CSS |
-| **Control de versiones** | Git · GitHub |
-| **Herramientas** | Visual Studio Code · Terminal (Bash) |
+| **Lenguajes de marcas** | HTML |
+| **Programación** | Python |
+| **Control de versiones** | GitHub |
+| **Entornos de desarrollo** | Apache NetBeans · Visual Studio Code |
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,bash&theme=dark" alt="Stack"/>
+<img src="https://skillicons.dev/icons?i=github,html,netbeans,vscode,python&theme=dark" alt="Stack"/>
 
 </div>
 
@@ -58,9 +59,9 @@ Estudiante de Formación Profesional en **Davante (Málaga)** con interés en la
 
 ## 🎯 Objetivos
 
-- ✅ Consolidar HTML y CSS
-- ✅ Dominar Git y GitHub en el día a día
-- 🔜 Aprender JavaScript y un lenguaje de programación
+- ✅ Consolidar HTML
+- ✅ Dominar GitHub en el día a día
+- 🔜 Profundizar en Python
 - 🔜 Desarrollar mi primer proyecto completo
 - 🚀 Realizar prácticas en una empresa del sector tecnológico
 
