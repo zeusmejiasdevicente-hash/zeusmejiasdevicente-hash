@@ -1,103 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Zeus%20Mej%C3%ADas&fontSize=60&fontColor=00F5D4&animation=twinkling&fontAlignY=40&desc=Estudiante%20de%20FP%20%C2%B7%20Futuro%20desarrollador&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Zeus%20Mej%C3%ADas%20de%20Vicente&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=40&desc=Estudiante%20de%20FP%20%C2%B7%20Desarrollo%20de%20software&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%" alt="Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=%24+whoami;Zeus+Mej%C3%ADas+de+Vicente;%24+cat+pasion.txt;C%C3%B3digo+%2B+curiosidad+%2B+caf%C3%A9+%E2%98%95;%24+echo+%22Aprendiendo+cada+d%C3%ADa%22" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&height=40&lines=Estudiante+de+FP+en+Davante+(M%C3%A1laga);Interesado+en+desarrollo+de+software;Buscando+pr%C3%A1cticas+y+primeras+oportunidades" alt="Typing SVG"/>
 
-<br><br>
+<br>
 
-![Visitas](https://komarev.com/ghpvc/?username=zeusmejiasdevicente-hash&label=Visitas&color=7C3AED&style=for-the-badge)
-![Estado](https://img.shields.io/badge/Estado-Aprendiendo-00F5D4?style=for-the-badge&labelColor=0f0c29)
-![Ubicación](https://img.shields.io/badge/M%C3%A1laga-Espa%C3%B1a-E11D48?style=for-the-badge&labelColor=0f0c29)
+![Formación](https://img.shields.io/badge/Formaci%C3%B3n-FP%20Davante-7C3AED?style=for-the-badge&labelColor=0f0c29)
+![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-M%C3%A1laga%2C%20Espa%C3%B1a-E11D48?style=for-the-badge&labelColor=0f0c29)
+![Disponibilidad](https://img.shields.io/badge/Disponible%20para-Pr%C3%A1cticas-00F5D4?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
 ---
 
-## 🖥️ `whoami`
+## 👤 Perfil profesional
 
-```js
-const zeus = {
-  nombre:     "Zeus Mejías de Vicente",
-  estudios:   "Formación Profesional · Davante (Málaga)",
-  ubicacion:  "Málaga, España 🇪🇸",
-  enfoque:    ["Programación", "Informática", "Desarrollo de software"],
-  aprendiendo: "Todo lo que pueda 🌱",
-  objetivo:   "Convertirme en un gran profesional del sector tech 🚀",
-  lema:       "Cada línea de código es una oportunidad para aprender algo nuevo."
-};
-```
+Estudiante de Formación Profesional en **Davante (Málaga)** con interés en la programación y el desarrollo de software. Me motiva aprender construyendo proyectos reales, trabajar con buenas prácticas y mejorar cada día. Busco una oportunidad de prácticas o primer empleo donde seguir creciendo y aportar valor al equipo.
 
 ---
 
-## ⚡ Ahora mismo
+## 🎓 Formación
 
-| 🎯 | En qué estoy |
-|:---:|:---|
-| 🎓 | Cursando mi FP en **Davante** |
-| 📚 | Aprendiendo lenguajes de marcas (HTML) y programación |
-| 🛠️ | Practicando con Git y GitHub |
-| 🤝 | Buscando proyectos y gente con quien aprender |
+| Periodo | Formación | Centro |
+|:---:|:---|:---|
+| En curso | Ciclo de Formación Profesional | Davante · Málaga |
+
+> ✏️ Edita esta tabla con el nombre exacto de tu ciclo y los años.
 
 ---
 
-## 🧰 Stack
+## 🧰 Competencias técnicas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" alt="Stack"/>
+| Área | Tecnologías |
+|:---|:---|
+| **Lenguajes de marcas** | HTML · CSS |
+| **Control de versiones** | Git · GitHub |
+| **Herramientas** | Visual Studio Code · Terminal (Bash) |
 
-<sub>🔧 Iré añadiendo más a medida que aprenda.</sub>
-
-</div>
-
----
-
-## 🗺️ Hoja de ruta
-
-<div align="center">
-
-| Meta | Estado |
-|:---|:---:|
-| HTML y CSS | ![](https://img.shields.io/badge/-En%20curso-00F5D4?style=flat-square) |
-| Git y GitHub | ![](https://img.shields.io/badge/-En%20curso-00F5D4?style=flat-square) |
-| JavaScript | ![](https://img.shields.io/badge/-Pr%C3%B3ximamente-7C3AED?style=flat-square) |
-| Primer proyecto propio | ![](https://img.shields.io/badge/-Pr%C3%B3ximamente-7C3AED?style=flat-square) |
-| Prácticas en empresa | ![](https://img.shields.io/badge/-Objetivo-E11D48?style=flat-square) |
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,bash&theme=dark" alt="Stack"/>
 
 </div>
 
 ---
 
-## 📊 Estadísticas
+## 💼 Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|:---|:---|:---|
+| [📁 Lenguajes de Marcas](https://github.com/zeusmejiasdevicente-hash/Lenguajes_de_Marca) | Prácticas del módulo: estructura HTML, anidación de etiquetas, tabla ASCII y primeras páginas web. | `HTML` |
+
+> 🚧 Más proyectos próximamente.
+
+---
+
+## 🎯 Objetivos
+
+- ✅ Consolidar HTML y CSS
+- ✅ Dominar Git y GitHub en el día a día
+- 🔜 Aprender JavaScript y un lenguaje de programación
+- 🔜 Desarrollar mi primer proyecto completo
+- 🚀 Realizar prácticas en una empresa del sector tecnológico
+
+---
+
+## 🤝 Soft skills
+
+`Aprendizaje autónomo` · `Trabajo en equipo` · `Curiosidad` · `Constancia` · `Ganas de mejorar`
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeusmejiasdevicente-hash&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusmejiasdevicente-hash&layout=compact&theme=radical&hide_border=true" alt="Lenguajes"/>
 
-<img src="https://streak-stats.demolab.com?user=zeusmejiasdevicente-hash&theme=radical&hide_border=true" alt="Racha"/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeusmejiasdevicente-hash&theme=react-dark&hide_border=true&area=true" alt="Actividad" width="95%"/>
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeusmejiasdevicente-hash)
+
+<!-- Cuando tengas LinkedIn, quita las flechas de esta línea y pon tu enlace:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE)
+-->
 
 </div>
 
 ---
 
-## 🌐 Conecta conmigo
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-zeusmejiasdevicente--hash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeusmejiasdevicente-hash)
+*"Cada línea de código es una oportunidad para aprender algo nuevo."*
 
-</div>
-
----
-
-<div align="center">
-
-### 💬 *"Cada línea de código es una oportunidad para aprender algo nuevo."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
