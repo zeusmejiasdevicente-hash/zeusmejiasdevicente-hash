@@ -88,6 +88,7 @@ Estudiante de Formación Profesional en **Davante (Málaga)** con interés en la
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-zeusmejiasdevicente%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeusmejiasdevicente@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeusmejiasdevicente-hash)
 
 <!-- Cuando tengas LinkedIn, quita las flechas de esta línea y pon tu enlace:
@@ -95,7 +96,6 @@ Estudiante de Formación Profesional en **Davante (Málaga)** con interés en la
 -->
 
 </div>
-
 ---
 
 <div align="center">
